@@ -1,3 +1,6 @@
 [submodule "devShop-financeiro"]
 	path = devShop-financeiro
 	url = https://github.com/dev-jefferson/devShop-financeiro
+[submodule "devShop-contratos"]
+	path = devShop-contratos
+	url = https://github.com/dev-jefferson/devShop-contratos
